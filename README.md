@@ -57,7 +57,9 @@ dotnet restore
 
 # Execute o projeto
 dotnet run --project GUI/GUI.csproj
+
 📂 Estrutura do Projeto
+
 AcademicTaskManager/
 ├── Core/           # Lógica de negócio
 │   ├── Models/     # Entidades (Tarefa, Projeto, Usuário)
