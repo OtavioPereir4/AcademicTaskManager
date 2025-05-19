@@ -8,6 +8,7 @@ Windows Forms
 O Academic Task Manager é um sistema de gerenciamento de tarefas acadêmicas (baseado no gitlab) desenvolvido em C#/.NET com Windows Forms, criado para auxiliar estudantes e professores no acompanhamento de projetos e prazos acadêmicos.
 
 ✨ Funcionalidades Principais
+
 ✅ Gerenciamento de Tarefas
 
 Cadastro de tarefas com título, descrição e data de entrega
