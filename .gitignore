@@ -1,0 +1,15 @@
+# Arquivos de build
+bin/
+obj/
+.vs/
+
+# Arquivos de usuário
+*.user
+*.suo
+
+# Dependências
+.nuget/
+packages/
+
+# IDE
+.vscode/
