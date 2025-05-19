@@ -48,10 +48,6 @@ Ferramentas: Visual Studio Code, Git, GitHub
 Pré-requisitos
 .NET 6.0 SDK
 
-Git (opcional)
-
-Passo a Passo
-bash
 # Clone o repositório
 git clone https://github.com/OtavioPereir4/AcademicTaskManager.git
 cd AcademicTaskManager
